@@ -10,5 +10,3 @@ Skills: .NET | Python
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=leonardomartelli&show_icons=true)  
-
-![Profile views](https://gpvc.arturio.dev/leonardomartelli)  
